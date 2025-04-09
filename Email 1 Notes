@@ -19,7 +19,7 @@ Inventory System
   They don't need any inventory system outside a counter for grenades.
 
 Scenery Objects
-- Basic, but easily identifiable 
+- Basic, but easily identifiable
 
 
 == Enemies ==
@@ -45,3 +45,7 @@ Hidden, Visible, Spotted
 
 Entities
 Player, Enemies
+
+DUMP NOTES:
+- Hidden/visible attributes would belong to player
+- Spotted status would belong to the enemies
