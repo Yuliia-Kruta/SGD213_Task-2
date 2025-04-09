@@ -29,3 +29,19 @@ Enemy Movement
 
 Enemy Damage
 - “How you represent enemies being "defeated" is up to you. As long as they change state when being hit by a projectile that'll work! Having some kind of "health" or "stun resistance" system would work here.”
+
+**Basic**
+Movements
+Sneak, Walk, Sprint
+
+Weapons
+Stick, Stone, Grenade
+
+Objects
+Walls, Boxes, End Objective
+
+Player Statuses
+Hidden, Visible, Spotted
+
+Entities
+Player, Enemies
